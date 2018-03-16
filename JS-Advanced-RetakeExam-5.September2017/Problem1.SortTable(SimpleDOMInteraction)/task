@@ -1,0 +1,7 @@
+Your Task
+Write the missing JavaScript function sort(), that sorts the table depending on the passed in arguments. The table will always have two columns, first column is a string (name of a product) and the second a number (price of a product). The first parameter is the column index which is either 0 or 1 (name column or price column), the second parameter is a Boolean variable which indicates whether the sorting is descending or ascending.
+Depending on the pressed button the sorting is either ascending or descending.
+There are four buttons and each column has two.
+You should not attach event listeners to the buttons, they have already been configured (see the HTML skeleton).
+Submission
+Submit only your sort function.

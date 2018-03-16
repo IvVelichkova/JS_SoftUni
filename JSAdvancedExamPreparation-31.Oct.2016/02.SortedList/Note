@@ -1,0 +1,13 @@
+Write Mocha tests to
+ verify the functionality of the following JS code:
+
+ Your tests will be supplied with a class named SortedList. It needs to meet the following requirements:
+ Maintains a collection of numeric elements
+ Has an add(element) function, which adds a new element to the collection
+ Has a remove(index) function, which removes the element at position index
+ Has a get(index) function, which return the value of the element at position index
+ Keeps the elements of the collection sorted in ascending order at all times
+ Throws an error if the functions get() and remove() are supplied with an invalid index (negative or outside the collection) or if the collection is empty
+ Has a size() property getter, which returns the number of elements inside the collection
+ Note
+ Submit your tests inside a describe() statement, using the Unit Tests with Sinon and Mocha Judge strategy.
