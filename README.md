@@ -1,1 +1,1 @@
-# JS_SoftUni
+# JS_SoftUni Advanced
